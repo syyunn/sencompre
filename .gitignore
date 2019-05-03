@@ -1,7 +1,5 @@
 # SentEval data and .pyc files
 
-
-
 # python
 __pycache__/
 *.py[cod]
